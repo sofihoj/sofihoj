@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=24&duration=4000&pause=1000&color=A01CCA&center=true&width=435&lines=Hello+world!+I'm+Sof%C3%ADa"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&size=30&duration=4000&pause=1000&color=A01CCA&center=true&width=435&lines=Hello+world!+I'm+Sof%C3%ADa"/>
 </h1>
 
-<h3 align="center">Software Developer from Rosario, Argentina.</h3>
+<h3 align="center">Software Developer trainee from Rosario, Argentina.</h3>
 <br/>
 
 <p>
@@ -24,7 +24,7 @@
 </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/sofía-hojberg/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="35px"</a>
-    <a href="mailto:sofiahojberga@gmail.com" alt="Send me an email"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35px"></a>
+    <a href="mailto:sofiahojberg@gmail.com" alt="Send me an email"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35px"></a>
  </p>
   
 <hr />
