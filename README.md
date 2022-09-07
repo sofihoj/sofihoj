@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=35&duration=4000&pause=1000&color=A01CCA&center=true&width=435&lines=Hello+world!+I'm+Sof%C3%ADa"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=4000&pause=1000&color=A01CCA&center=true&width=435&lines=Hello+world!:sparkles:+I'm+Sof%C3%ADa"/>
 </h1>
 
 <h3 align="center">Software Developer trainee from Rosario, Argentina.</h3>
