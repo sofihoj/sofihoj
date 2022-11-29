@@ -45,5 +45,8 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=WebdriverIO&color=EA5906&logo=WebdriverIO&logoColor=FFFFFF&label=">&nbsp;&nbsp;
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+JMeter&color=D22128&logo=Apache+JMeter&logoColor=FFFFFF&label=">&nbsp;&nbsp;
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lighthouse&color=F44B21&logo=Lighthouse&logoColor=FFFFFF&label=">&nbsp;&nbsp;
   
 </p>
