@@ -12,8 +12,6 @@
 <p>
 
 🔍 I’m looking for my first job as a developer.
-
-💻 I’m currently learning at a FullStack MERN bootcamp and I'm taking another Python course as well.
   
 ⚡ I'm the owner and founder of [Soho Macramé](https://www.instagram.com/soho.macrame/) were I design and create decoration items with macrame technique with social media sales.
 
