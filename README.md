@@ -2,19 +2,11 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&duration=4000&pause=1000&color=A01CCA&center=true&width=435&lines=Hello+world+%E2%9C%A8+I'm+Sof%C3%ADa"/>
 </h1>
 
-<h3 align="center">Software Developer and QA tester from Rosario, Argentina.</h3>
+<h3 align="center">QA Tester & Project Manager from Rosario, Argentina.</h3>
 <br/>
 
 <p>
   <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofihoj&layout=compact&card_width=800&theme=radical&hide_border=true" />
-</p>
-
-<p>
-
-🔍 I’m looking for my first job as a developer.
-  
-⚡ I'm the owner and founder of [Soho Macramé](https://www.instagram.com/soho.macrame/) were I design and create decoration items with macrame technique with social media sales.
-
 </p>
 
 <p align="center">
@@ -36,7 +28,6 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=darkgreen&style=for-the-badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
